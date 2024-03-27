@@ -5,6 +5,8 @@ Code Louisville Data Analysis Capstone Projext
 
 ## Overivew
 This Notebook Analizes the correaltion between most popular Artists on Spotify in 2023 and Grammy Winners in the past few years. There are three main data sets that come from Kaggle.
+The notebook is hosted online at the following link
+https://mybinder.org/v2/gh/floodadosious34/Music-Trends-Data-Analysis.git/HEAD
 
 
 ## Data Sources
