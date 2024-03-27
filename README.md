@@ -37,7 +37,7 @@ folder in GitBash/Terminal.
 5. Install the required packages. `pip install -r requirements.txt`
 6. When you are done working on your repo, deactivate the virtual environment. 
 `deactivate`
-7. Run the [create_sql_db](create_sql_db.ipynb) notebook to unzip data files and create 'NHL_data.db' for future SQL queries.
+
  
 
 
