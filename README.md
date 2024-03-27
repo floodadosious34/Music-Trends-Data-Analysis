@@ -25,13 +25,12 @@ https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-all-time
 
 
 ## Instructions/Virutal Environment Instructions
-. Clone the repository to your machine:
+1. Clone the repository to your machine:
     ```bash
     git clone https://github.com/floodadosious34/Music-Trends-Data-Analysis.git
     ```
 2. After you have cloned the repo to your machine, navigate to the project 
 folder in GitBash/Terminal.
-
 3. Create a virtual environment in the project folder. `python3 -m venv venv` [^1]
 4. Activate the virtual environment. `source venv/bin/activate`
 5. Install the required packages. `pip install -r requirements.txt`
