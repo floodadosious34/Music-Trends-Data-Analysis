@@ -36,7 +36,8 @@ folder in GitBash/Terminal.
 3. Create a virtual environment in the project folder. `python3 -m venv venv` [^1]
 4. Activate the virtual environment. `source venv/bin/activate`
 5. Install the required packages. `pip install -r requirements.txt`
-6. When you are done working on your repo, deactivate the virtual environment. 
+6. Make sure to run the create_sql_db.ipynb file first to create the db and load the csv's into the project
+7. When you are done working on your repo, deactivate the virtual environment. 
 `deactivate`
 
  
